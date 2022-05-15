@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoAppProject</string>
+    <string name="addbtn">addBtn</string>
+</resources>
